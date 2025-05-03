@@ -23,7 +23,7 @@ imgDiv.addEventListener("mouseenter", () => {
     scale: 3.5,
     backgroundColor: '#ffffffa8'
   })
-})
+});
 
 imgDiv.addEventListener("mouseleave", () => {
   cursor.innerHTML = ""
@@ -32,4 +32,4 @@ imgDiv.addEventListener("mouseleave", () => {
     scale: 1,
     backgroundColor: '#fff'
   })
-})
+});
