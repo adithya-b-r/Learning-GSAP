@@ -1,6 +1,8 @@
 # GSAP Learning – Day 3
 
-Interactive SVG path animation using GSAP and the `attr` plugin for real-time morphing on mouse movement.
+Interactive SVG path animation using GSAP and the `attr` plugin 
+---
+for real-time morphing on mouse movement.
 
 ## 🗂️ Files
 
